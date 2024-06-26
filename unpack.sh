@@ -1,0 +1,1 @@
+python logo-xiaomi extract -i logo.img -o output

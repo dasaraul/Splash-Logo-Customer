@@ -1,0 +1,1 @@
+python logo-xiaomi replace -i logo.img -o Ei -a output/logo-0.bmp -a output/logo-1.bmp -a output/logo-2.bmp -a output/logo-3.bmp
